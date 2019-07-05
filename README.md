@@ -13,6 +13,7 @@ To get the Node server running locally:
 - [expressjs](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
 - [mongoose](https://github.com/Automattic/mongoose) - For modeling and mapping MongoDB data to javascript 
 - [ejs](https://github.com/tj/ejs) - Embedded JavaScript templates
+- [body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
 
 ## Application Structure
 
